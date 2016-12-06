@@ -1,4 +1,4 @@
-## Linux Directory Hierarchy: Oriented to the (Four Software Parts)[http://felipe.digital]
+## Linux Directory Hierarchy: Oriented to the [Four Software Parts](software-parts.md)
 
 from [The Linux Documentation Project](http://www.tldp.org/HOWTO/HighQuality-Apps-HOWTO/fhs.html) (with little modification).
 
@@ -8,7 +8,7 @@ see also
 - [FHS 3.0](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.html)
 - [FHS 2.3](http://www.pathname.com/fhs/)
 
-On Linux, the [Four Software Parts](http://felipe.digital) theory is expressed in its directory structure, which is classified and documented in the [Filesystem Hierarchy Standard](http://www.pathname.com/fhs/). FHS is part of the [LSB (Linux Standar Base)](http://www.linuxbase.org/). It defines in which directories each piece of Apache, Samba, Mozilla, KDE _and your Software_ must go.
+On Linux, the [Four Software Parts](software-parts.md) theory is expressed in its directory structure, which is classified and documented in the [Filesystem Hierarchy Standard](http://www.pathname.com/fhs/). FHS is part of the [LSB (Linux Standar Base)](http://www.linuxbase.org/). It defines in which directories each piece of Apache, Samba, Mozilla, KDE _and your Software_ must go.
 
 ### 1. FHS Summary
 
