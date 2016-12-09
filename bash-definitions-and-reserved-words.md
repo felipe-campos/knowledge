@@ -2,11 +2,20 @@
 
 ## Bash Definitions
 
-**blank** | A Space or tab.
-----------|---------------
-**word** | A sequence of characters considered as a single unit by the shell. Also know as a **token**.
-**name** | A _word_ consisting only of alphanumeric characters and underscores, and beginning with an alphabetic character or an underscore. Also referred to as an **identifier**.
-**metacharacter** | A character that, when unquoted, separates _words_. One of the following: **\|**  **&**  **;**  **(**  **)**  **<**  **>**  **space**  **tab**
+<table>
+  <tr>
+    <td><b>blank</b></td><td>A Space or tab.</td>
+  </tr>
+  <tr>
+    <td><b>word</b></td><td>A sequence of characters considered as a single unit by the shell. Also know as a <b>token</b>.</td>
+  </tr>
+  <tr>
+  <td><b>name</b></td><td>A <em>word</em> consisting only of alphanumeric characters and underscores, and beginning with an alphabetic character or an underscore. Also referred to as an <b>identifier</b>.</td>
+  </tr>
+  <tr>
+  <td><b>metacharacter</b></td><td>A character that, when unquoted, separates <em>words</em>. One of the following:<br><br><b style="display:inline-block;margin:30px;">&#124;</b> <b>&#38;</b> <b>&#59;</b> <b>&#40;</b> <b>&#41;</b> <b>&#60;</b> <b>&#62;</b> <b>space</b> <b>tab</b></td>
+  </tr>
+</table>
 
 ---
 ### Bash Reserved Words
