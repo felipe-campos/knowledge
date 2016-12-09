@@ -1,6 +1,6 @@
 ## Bash Definitions and Reserved Words
 
-## Bash Definitions
+### Bash Definitions
 
 <table>
   <tr>
