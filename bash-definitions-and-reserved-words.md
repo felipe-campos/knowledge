@@ -15,6 +15,9 @@
   <tr>
   <td><b>metacharacter</b></td><td>A character that, when unquoted, separates <em>words</em>. One of the following:<br><br><b>&#124;</b> <b>&#38;</b> <b>&#59;</b> <b>&#40;</b> <b>&#41;</b> <b>&#60;</b> <b>&#62;</b> <b>space</b> <b>tab</b></td>
   </tr>
+  <tr>
+  <td><b>control operator</b></td><td>A <em>token</em> that performs a control function. It is one of the following symbols:<br><br><b>&#63732;&#63732;</b> <b>&#38;</b> <b>&#38;&#38;</b> <b>&#59;</b> <b>&#59;&#59;</b> <b>&#40;</b> <b>&#41;</b> <b>&#124;</b> <b>&#60;newline&#62;</b></td>
+  </tr>
 </table>
 
 ---
